@@ -1,74 +1,42 @@
 # Hi, I'm Rangga 👋
 
-I'm a Computer Engineering Technology student at Politeknik Negeri Semarang
-with an interest in backend web development.
+I'm a D4 Computer Engineering Technology student at
+Politeknik Negeri Semarang, interested in backend web development.
 
-I enjoy building web applications and learning by turning ideas into
-simple and useful systems.
-
----
+I enjoy learning by building projects and experimenting with
+different technologies.
 
 ## About Me
 
-🎓 D4 Computer Engineering Technology — Politeknik Negeri Semarang
-
-💻 Interested in Backend Web Development
-
-🌱 Currently improving my skills in Laravel, PHP, JavaScript, and MySQL
-
-🔨 I learn by building projects and experimenting with new technologies
-
----
+- 🎓 D4 Computer Engineering Technology — Politeknik Negeri Semarang
+- 💻 Interested in Backend Web Development
+- 🌱 Currently learning and improving my development skills
+- 🔨 Learning by building projects
 
 ## Tech Stack
 
 **Backend**
-
 - PHP
 - Laravel
 
 **Frontend**
-
 - HTML
 - CSS
 - JavaScript
 
 **Database**
-
 - MySQL
 
 **Tools**
-
 - Git
 - GitHub
 
----
+## Projects
 
-## Featured Project
+I'm currently working on several projects to improve my
+web development skills.
 
-### 🎭 Costume Rental Website
-
-A web application for managing costume borrowing and returning.
-
-The project was built to simplify the process of managing costume
-data and rental transactions.
-
-**Tech Stack**
-
-PHP · Laravel · MySQL · JavaScript · HTML · CSS
-
-[View Project](https://github.com/rangga229/peminjaman-kostum)
-
----
-
-## Other Projects
-
-### 📝 Todo List
-
-A simple Todo List application built as a project to practice
-web development and application logic.
-
----
+More projects will be added here as I build them.
 
 ## Currently Learning
 
@@ -76,12 +44,9 @@ web development and application logic.
 - Laravel
 - Database Management
 - JavaScript
-- Building better and more maintainable web applications
-
----
+- Software Development Practices
 
 ## Connect With Me
 
-GitHub: [@rangga229](https://github.com/rangga229)
-
-Instagram: [@er_pepepe](https://www.instagram.com/er_pepepe/)
+- GitHub: [@rangga229](https://github.com/rangga229)
+- Instagram: [@er_pepepe](https://www.instagram.com/er_pepepe/)
